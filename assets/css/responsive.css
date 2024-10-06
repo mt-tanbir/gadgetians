@@ -1,0 +1,556 @@
+@media screen and (max-width: 1440px) {}
+
+@media screen and (max-width: 1367px) {
+    .ark-hero-1-content .title {
+        font-size: 62px;
+    }
+
+    .ark-gallery .lightbox-item {
+        flex-basis: 144px;
+    }
+
+    .ark-gallery .lightbox-item-2 {
+        flex-basis: 88px;
+    }
+
+    .insta-gallary-content .lightbox .lightbox-item {
+        flex-basis: 278px;
+        height: 278px;
+    }
+
+    .single-category .category-title {
+        font-size: 20px;
+    }
+
+    .editors-single-content .blog-img {
+        width: 70%;
+    }
+}
+
+@media screen and (max-width: 1280px) {
+    .insta-gallary-content-2 .lightbox .lightbox-item {
+        height: 250px;
+    }
+}
+
+@media screen and (max-width: 1200px) {
+    .ark-hero-1-content .title {
+        font-size: 52px;
+        line-height: 66px;
+    }
+
+    .single-category .category-img {
+        margin-bottom: 8px;
+    }
+
+    .single-trending-blog img {
+        width: 260px;
+        height: 260px;
+    }
+
+    .ark-gallery .lightbox-item {
+        flex-basis: 114px;
+    }
+
+    .ark-gallery .lightbox-item-2 {
+        flex-basis: 68px;
+    }
+
+    .insta-gallary-content .lightbox .lightbox-item {
+        flex-basis: 234px;
+        height: 234px;
+    }
+
+    .editors-choice-slider .slick-slide {
+        margin: 0px 80px;
+    }
+
+    .editors-single-content {
+        padding: 20px;
+    }
+
+    .details-content-2 .feature-img {
+        height: 310px;
+    }
+}
+
+@media screen and (max-width: 1025px) {
+    .editors-choice-nav .slick-next {
+        right: -12px;
+    }
+
+    .editors-choice-nav .slick-prev {
+        position: absolute;
+        left: -12px;
+    }
+
+    .email-form {
+        width: 320px;
+    }
+
+    .insta-gallary-content-2 .lightbox .lightbox-item {
+        height: 200px;
+    }
+
+    .comingsoon-element {
+        padding: 170px 0px;
+    }
+}
+
+@media screen and (max-width: 992px) {
+    .ark-header-button {
+        padding-right: 60px;
+    }
+
+    .hero-1-gradiant {
+        display: none;
+    }
+
+    .all-blogs-content-2 .tab-section {
+        flex-direction: column;
+    }
+
+    .sort-btn-dropdown {
+        margin-bottom: 20px;
+    }
+}
+
+@media screen and (max-width: 769px) {
+    .author-content-box {
+        margin-top: 50px;
+    }
+
+    .ark-gallery .lightbox-item {
+        flex-basis: 314px;
+    }
+
+    .ark-gallery .lightbox-item-2 {
+        flex-basis: 202px;
+    }
+
+    .insta-gallary-content .lightbox .lightbox-item {
+        flex-basis: 174px;
+        height: 174px;
+    }
+
+    .all-blogs-content .nav-pills {
+        justify-content: start;
+        gap: 12px;
+    }
+
+    .hero-2-content .hero-2-title {
+        font-size: 44px;
+    }
+
+    .single-latest-blog-2 img {
+        width: 100%;
+        height: 280px;
+    }
+
+    .single-latest-blog-2 {
+        flex-direction: column
+    }
+
+    .viewmore-btn .btn-text {
+        display: inline-flex;
+    }
+
+    .insta-gallary-content-2 .lightbox .lightbox-item {
+        height: 160px;
+    }
+
+    .blog-pagination-box-2 {
+        margin-top: 20px;
+    }
+
+    .section-title h2 {
+        font-size: 42px;
+    }
+
+    .details-content-1 h2 {
+        font-size: 48px;
+    }
+
+    .details-content-1 .blog-image {
+        height: 320px;
+    }
+
+    .comments-form-area {
+        width: 100%;
+    }
+
+    .ark-quote-element {
+        align-items: start;
+        padding: 20px;
+        border-left: 20px solid #CDB3F4;
+    }
+}
+
+@media screen and (max-width: 576px) {
+    .single-trending-blog img {
+        width: 100%;
+        height: 260px;
+        object-fit: cover;
+    }
+
+    .single-trending-blog {
+        flex-direction: column;
+    }
+
+    .ark-gallery .lightbox-item {
+        flex-basis: 240px;
+    }
+
+    .ark-gallery .lightbox-item-2 {
+        flex-basis: 154px;
+    }
+
+    .editors-choice-slider .slick-slide {
+        margin: 0px 30px;
+    }
+
+    .insta-gallary-content .lightbox .lightbox-item {
+        flex-basis: 136px;
+        height: 136px;
+    }
+
+    .section-title h3 {
+        font-size: 36px;
+    }
+
+    .ark-gallery .lightbox {
+        flex-direction: row;
+    }
+
+    .category-content-box {
+        padding: 60px 15px;
+    }
+
+    .hero-1 {
+        padding-top: 170px;
+    }
+
+    .lightbox-popup-dialog {
+        max-width: 380px;
+    }
+
+    .hero-2-content .hero-2-title {
+        font-size: 35px;
+        line-height: 50px;
+    }
+
+    .insta-gallary-content-2 .lightbox .lightbox-item {
+        height: 120px;
+    }
+
+    .copyright-section {
+        flex-direction: column;
+        gap: 8px;
+        text-align: center;
+    }
+
+    .footer-menu {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+    }
+
+    .category-1,
+    .category-2,
+    .ark-all-blog-3,
+    .blog-details-1 {
+        padding-top: 180px;
+    }
+
+    .details-content-1 h2 {
+        font-size: 36px;
+        line-height: 53px;
+        letter-spacing: -0.2px;
+    }
+
+    .details-content-1 .blog-meta-box {
+        align-items: start;
+        flex-direction: column;
+        gap: 20px;
+    }
+
+    .ark-quote-element .flaticon-quote {
+        width: 50px;
+        height: 50px;
+        font-size: 50px !important;
+    }
+
+    .tag-share-wrapper {
+        align-items: start;
+        justify-content: space-between;
+        flex-direction: column;
+        gap: 20px;
+    }
+
+    .details-content-2 .feature-img {
+        height: 250px;
+    }
+
+    .comingsoon-element h1 {
+        font-size: 36px;
+        margin: 24px 0px;
+    }
+
+    .comingsoon-element .counters {
+        gap: 12px;
+    }
+
+    .comingsoon-element .counter {
+        width: 70px;
+        height: 50px;
+        font-size: 30px;
+    }
+
+    .comingsoon-element .text {
+        font-size: 14px;
+        margin-top: 12px;
+    }
+
+    .comingsoon-element .loading-bar {
+        margin-bottom: 42px;
+    }
+}
+
+@media screen and (max-width: 480px) {
+    .ark-gallery .lightbox-item {
+        flex-basis: 194px;
+    }
+
+    .ark-gallery .lightbox-item-2 {
+        flex-basis: 122px;
+    }
+
+    .section-title h3 {
+        font-size: 32px;
+    }
+
+    .section-title h4 {
+        font-size: 26px;
+    }
+
+    .editors-choice-slider .slick-slide {
+        flex-direction: column;
+    }
+
+    .editors-single-content .blog-img {
+        width: 100%;
+    }
+
+    .insta-gallary-content .lightbox {
+        gap: 0px;
+        flex-direction: row;
+    }
+
+    .insta-gallary-content .lightbox .lightbox-item {
+        flex-basis: 114px;
+        height: 114px;
+    }
+
+    .footer-menu .menu-category {
+        padding: 30px 0px 20px;
+    }
+
+    .editors-choice-slider .slick-slide {
+        margin: 0px 46px;
+    }
+
+    .editors-choice-nav .slick-prev {
+        position: absolute;
+        left: 10px;
+    }
+
+    .editors-choice-nav .slick-next {
+        right: 10px;
+    }
+
+    .ark-hero-1-content .title {
+        font-size: 30px;
+        line-height: 50px;
+    }
+
+    .email-form .subscribe-btn {
+        padding: 16px 18px;
+    }
+
+    .insta-gallary-content-2 .lightbox {
+        flex-direction: row;
+    }
+
+    .insta-gallary-content-2 .lightbox .lightbox-item {
+        height: 100px;
+    }
+
+    .section-title h2 {
+        font-size: 34px;
+        letter-spacing: 0.8px;
+    }
+
+    .details-content-1 h2 {
+        font-size: 32px;
+    }
+
+    .details-content-1 .blog-image {
+        height: 214px;
+    }
+
+    .comments-form-box .form-input {
+        gap: 0px;
+        flex-direction: column;
+    }
+}
+
+@media screen and (max-width: 426px) {
+    .ark-header-button .search_box .search_input {
+        height: 78px;
+        width: 320px;
+    }
+
+    .mean-container {
+        display: flex;
+        align-items: center;
+    }
+
+    .ark-gallery .lightbox-item {
+        flex-basis: 166px;
+    }
+
+    .ark-gallery .lightbox-item-2 {
+        flex-basis: 104px;
+    }
+
+    .latest-blog-content .section-title a {
+        display: inline-block !important;
+    }
+
+    .latest-blog-content .section-title {
+        display: block;
+    }
+
+    .insta-gallary-content .lightbox .lightbox-item {
+        flex-basis: 100px;
+        height: 100px;
+    }
+
+    .editors-single-content {
+        padding: 16px;
+        flex-direction: column;
+    }
+
+    .details-content-1 h2 {
+        font-size: 28px;
+        line-height: 42px;
+    }
+
+    .blog-meta-box .meta-info {
+        flex-wrap: wrap;
+    }
+
+    .all-single-blog-3 img {
+        height: 200px;
+        object-fit: cover;
+    }
+}
+
+@media screen and (max-width: 376px) {
+    .mobile-menu a.mobile-logo {
+        width: 50%;
+    }
+
+    .ark-header-button .open_search i {
+        padding: 20px;
+    }
+
+    .btn-text {
+        padding: 16px;
+    }
+
+    .ark-gallery .lightbox-item {
+        flex-basis: 140px;
+    }
+
+    .ark-gallery .lightbox-item-2 {
+        flex-basis: 86px;
+    }
+
+    .editors-choice-slider .slick-slide {
+        margin: 0px 8px;
+    }
+
+    .insta-gallary-content .lightbox .lightbox-item {
+        flex-basis: 86px;
+        height: 86px;
+    }
+
+    .lightbox-popup-dialog {
+        max-width: 300px;
+    }
+
+    .single-latest-blog-2 {
+        padding: 12px;
+    }
+
+    .details-content-1 .blog-image {
+        height: 166px;
+        margin: 28px 0px 28px;
+    }
+
+    .ark-quote-element {
+        align-items: start;
+        padding: 12px;
+        border-left: 12px solid #CDB3F4;
+        border-radius: 12px;
+    }
+
+    .ark-quote-element .text {
+        font-size: 18px;
+    }
+
+    .comment-elements-box .comment-1-box .comment-reply-box {
+        margin: 26px 0px 0px 20px;
+    }
+
+    .comment-2-box {
+        margin: 0px auto;
+        width: 90%;
+    }
+
+    .details-content-2 {
+        padding: 12px 10px 24px;
+        border-radius: 20px;
+        background: #FFF;
+    }
+
+    .details-content-2 .feature-img {
+        height: 190px;
+    }
+
+    .details-content-2 h5 {
+        font-size: 26px;
+    }
+
+}
+
+@media screen and (max-width: 361px) {
+    .ark-gallery .lightbox-item {
+        flex-basis: 134px;
+    }
+
+    .ark-gallery .lightbox-item-2 {
+        flex-basis: 82px;
+    }
+
+    .insta-gallary-content .lightbox .lightbox-item {
+        flex-basis: 80px;
+        height: 80px;
+    }
+
+    .section-title h3 {
+        font-size: 30px;
+    }
+}
